@@ -1,0 +1,21 @@
+{
+  "name": "ui-xaeon-dark",
+  "displayName": "Xaeon Dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xaeon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xaeon Dark-color-theme.json"
+      }
+    ]
+  }
+}
