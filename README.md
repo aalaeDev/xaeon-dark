@@ -26,4 +26,4 @@ Xaeon Dark is a sleek and modern dark theme for Visual Studio Code that provides
 
 ## Version
 
-0.0.6
+0.0.7
