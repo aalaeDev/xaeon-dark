@@ -2,7 +2,7 @@
     "name": "ui-xaeon-dark",
     "displayName": "Xaeon Dark Theme",
     "description": "A dark blue theme for VS Code.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "AalaeBl",
     "icon": "assets/icon.png",
     "repository": {
