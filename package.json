@@ -1,27 +1,32 @@
 {
-  "name": "ui-xaeon-dark",
-  "displayName": "Xaeon Dark Theme",
-  "description": "A dark blue theme for VS Code.",
-  "version": "0.0.5",
-  "publisher": "aalaebl",
-  "icon": "assets/icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aalaebl/xaeon-dark"
-  },
-  "engines": {
-    "vscode": "^1.73.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Xaeon Dark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Xaeon Dark-color-theme.json"
-      }
-    ]
-  }
+    "name": "ui-xaeon-dark",
+    "displayName": "Xaeon Dark Theme",
+    "description": "A dark blue theme for VS Code.",
+    "version": "0.0.6",
+    "publisher": "AalaeBl",
+    "icon": "assets/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aalaeDev/xaeon-dark"
+    },
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xaeon Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xaeon-dark-default-theme.json"
+            },
+            {
+                "label": "Xaeon Dark Horizon Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xaeon-dark-horizon-theme.json"
+            }
+        ]
+    }
 }
